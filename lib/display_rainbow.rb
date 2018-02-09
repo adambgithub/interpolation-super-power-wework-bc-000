@@ -1,10 +1,10 @@
 # Write your #display_rainbow method here
 
-colors = []
-colors = ["R", "O", "Y", "G", "B", "I", "V"]
+
+colors = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet'])
 
 def display_rainbow(colors)
- puts 
+ puts colors[0]
 end
 
 display_rainbow(colors)
