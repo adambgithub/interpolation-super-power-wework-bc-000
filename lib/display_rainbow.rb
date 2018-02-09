@@ -13,4 +13,4 @@
 
 colors = ["R", "O", "Y", "G", "B", "I", "V"]
 
-puts colors(0)
+colors[0]
